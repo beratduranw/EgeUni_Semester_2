@@ -1,3 +1,3 @@
 # EgeUni_Semester_2
 
-Ege üniversitesi algoritma 2 dersi içeriğindeki ödevlerin çözümlerini içerir.
+It includes the solutions of homework in the content of Ege University Algorithm 2 course.
